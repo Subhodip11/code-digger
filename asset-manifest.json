@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/code-digger/static/css/main.47fa35cf.css",
+    "main.js": "/code-digger/static/js/main.caa77ee0.js",
+    "index.html": "/code-digger/index.html",
+    "main.47fa35cf.css.map": "/code-digger/static/css/main.47fa35cf.css.map",
+    "main.caa77ee0.js.map": "/code-digger/static/js/main.caa77ee0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.47fa35cf.css",
+    "static/js/main.caa77ee0.js"
+  ]
+}
